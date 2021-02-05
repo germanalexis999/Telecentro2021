@@ -12,7 +12,7 @@
     <form method="post" action="conexion.php">
 
     <section class="form_Login">
-        <h3 id="titulo">Formulario de Ingreso A Telecentro Node</h4>
+        <h3 id="titulo">Formulario de Ingreso A Telecentro Node</h3>
         <input class="envio" type="text" name="Usuario" value="" placeholder="Usuario" required>
         <input class="envio" type="password" name="Contraseña" value="" placeholder="Contraseña" required>
         <input class="enviar" type="submit" name="" value="Ingresar al sistema">
